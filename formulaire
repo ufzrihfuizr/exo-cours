@@ -1,0 +1,158 @@
+<doctype html>
+
+<head>
+    <meta charset="utf-8">
+</head>
+<body bgcolor="grey">
+  <center>
+    <marquee><font color="red" face="arial" size="10em">
+<h1>Formulaire</h1> </marquee>
+
+</font>
+</center>
+<hr></hr>
+    
+    
+
+    <form method="post">
+
+<br><center><table widthe="100%" border ="0">
+    
+   <tr>
+            <td>
+              pseudo : </td> 
+              <td>
+              <input type="text" name="t1" maxlength="5" placeholder="saisir votre pseudo:"> </td> <br>
+
+               <td>
+               </tr>
+               <tr><td>
+              mot de passe :</td>
+              <td><input type="password" name="t2"></td>
+              </tr>
+              <tr>
+                <td>
+                  prenom : </td> 
+                  <td>
+                  <input type="text" name="t59851" maxlength="5" placeholder="saisir votre prenom:"> </td> <br>
+    
+                   <td>
+                   </tr>
+                   <tr>
+                    <td>
+                      email : </td> 
+                      <td>
+                      <input type="text" name="t155" maxlength="5" placeholder="saisir votre email:"> </td> <br>
+        
+                       <td>
+                       </tr>
+                       <tr>
+                        <td>
+                          Avatar : </td> 
+                          <td>
+                          <input type="file" name="t1959" maxlength="5" placeholder="Select fichiers:"> </td> <br>
+            
+                           <td>
+                           </tr>
+                           <tr>
+                            
+                              <td><label> pays: </label></td>
+                               <td> <select>
+                                <option> espagne </option>
+                                <option>france</option>
+                                <option>canada</option></td>
+                                </select><br>
+                               
+                
+                               <td>
+                               </tr>
+                           <tr>
+                            <td>
+                              Quels sont vos fruits préférés: </td> 
+                              <td>
+                              Orange <input type="checkbox" name="t8852">
+                              Fraise <input type="checkbox" name="t892525">
+                              Poire <input type="checkbox" name="t902525"> </td> <br>
+                            </tr>
+                            <tr><td>Civilité : : </td>
+                               <td> Homme <input type="radio" name="t8252558">
+                                Femme <input type="radio" name="t8252559"></td>
+                         
+                
+                               <td>
+                               </tr>
+                               <tr>
+                                <td>
+                                  Ville : </td> 
+                                  <td>
+                                  <input type="text" name="t25251" maxlength="5" placeholder="saisir votre ville:"> </td> <br>
+                    
+                                   <td>
+                                   </tr>
+                                   <tr>
+                                    <td>
+                                      Code Postale : </td> 
+                                      <td>
+                                      <input type="text" name="t1252552" maxlength="5" placeholder="saisir votre code postale:"> </td> <br>
+                        
+                                       <td>
+                                       </tr>
+                                       <tr><td>Date de naissance : </td>
+                                    <td><input type="date" ></td></tr>
+                                    <tr><td>Jauge : </td>
+                                        <td>  <input type="range" min="5" color=" blue" name="t2525588">
+                                         </td>
+
+                                  
+                         
+                                        <td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                              telephone : </td> 
+                                              <td>
+                                              <input type="text" name="t2525251" maxlength="5" placeholder="saisir votre telephone:"> </td> <br>
+                                
+                                               <td>
+                                               </tr>
+                                               <tr>
+                                                <td>
+                                                  recherche : </td> 
+                                                  <td>
+                                                  <input type="text" name="t2525255551" maxlength="5" placeholder=":"> </td> <br>
+                                    
+                                                   <td>
+                                                   </tr>
+                                                   <tr>
+                                                    <td>
+                                                      Url : </td> 
+                                                      <td>
+                                                      <input type="text" name="t8681" maxlength="5" placeholder="saisir votre url:"> </td> <br>
+                                        
+                                                       <td>
+                                                       </tr>
+                                                       <tr>
+                                                        <td>
+                                                          Couleur : </td> 
+                                                          <td>
+                                                          <input type="color"></td> <br>
+                                            
+                                                           <td>
+                                                           </tr>
+                                                           <tr><td></td></tr>
+                                                           <tr>
+                                                            <td>
+                                                              Valider </td> 
+                                                              <td>
+                                                              <input type="submit" value=" valider" >  </td> <br>
+                                                
+                                                               <td>
+                                                               </tr>
+                                                               <tr><td></td></tr>
+
+                                       
+    
+</table></center>
+</form>
+</body>
+</html>
