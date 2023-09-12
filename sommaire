@@ -1,0 +1,22 @@
+<doctype html>
+
+<head>
+</head>
+<body>
+    <center>
+        <marquee><font color="red" face="arial" size="10em">
+    <h1>Sommaire</h1> </marquee>
+    
+    </font>
+    </center>
+    <hr></hr>
+<body>
+
+<ul>
+<li><h2><button><a href="acceuil.html"> Page acceuil </a></button></h2></li>
+<li><h2><button><a href="acceuil1.html"> Page h2 </a></button></h2></li>
+<li><h2><button><a href="acceuil2.html"> liste des articles  </a></button></h2></li>
+<li><h2><button ><a href="exercice.html"> exercice fin de cours </a></button></h2></li>
+</u>
+</body>
+</html>
